@@ -3,4 +3,4 @@
 A Network Approach to Multipolarity in the Liberal International Order - Global Politics course at Hertie School
 
 
-Code needs a thorough clean up, sorry.
+Code needs a thorough clean up, sorry. Have a look at the paper (uploaded PDF) instead.
