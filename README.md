@@ -6,4 +6,4 @@ Can we test such past predictions from theories about the evolution of the LIO a
 
 To this extent, I use methods from network theory to operationalise the notion of multipolarity.
 
-As the code was written over the christmas holidays, it's a rough draft an needs a thorough clean up, sorry. Have a look at the [paper](https://github.com/heissjl/gp-lio-network/blob/main/Abgabe.pdf) instead.
+As the code was written over the christmas holidays, it's a rough draft and needs a thorough clean up, sorry. Have a look at the [paper](https://github.com/heissjl/gp-lio-network/blob/main/Abgabe.pdf) instead.
